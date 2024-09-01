@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\ObjectiveFunction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|solutionrelative:PSO_Object\\ObjectiveFunction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\ObjectiveFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|solutionrelative:PSO_Object\\ObjectiveFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\PSO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|solutionrelative:PSO_Object\\PSO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\PSO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|solutionrelative:PSO_Object\\PSO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F42177-4170-4AFA-9768-0AC1F32D6FBC}|PSO_Object\\PSO_Object.vcxproj|solutionrelative:PSO_Object\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PSO.h",
+              "DocumentMoniker": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\PSO.h",
+              "RelativeDocumentMoniker": "PSO_Object\\PSO.h",
+              "ToolTip": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\PSO.h",
+              "RelativeToolTip": "PSO_Object\\PSO.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T12:15:59.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectiveFunction.cpp",
+              "DocumentMoniker": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\ObjectiveFunction.cpp",
+              "RelativeDocumentMoniker": "PSO_Object\\ObjectiveFunction.cpp",
+              "ToolTip": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\ObjectiveFunction.cpp",
+              "RelativeToolTip": "PSO_Object\\ObjectiveFunction.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T12:18:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectiveFunction.h",
+              "DocumentMoniker": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\ObjectiveFunction.h",
+              "RelativeDocumentMoniker": "PSO_Object\\ObjectiveFunction.h",
+              "ToolTip": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\ObjectiveFunction.h",
+              "RelativeToolTip": "PSO_Object\\ObjectiveFunction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T12:17:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PSO.cpp",
+              "DocumentMoniker": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\PSO.cpp",
+              "RelativeDocumentMoniker": "PSO_Object\\PSO.cpp",
+              "ToolTip": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\PSO.cpp",
+              "RelativeToolTip": "PSO_Object\\PSO.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvzUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T12:16:39.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\main.cpp",
+              "RelativeDocumentMoniker": "PSO_Object\\main.cpp",
+              "ToolTip": "D:\\REZ_file\\VS_Project_temp\\PSO_Object\\PSO_Object\\main.cpp",
+              "RelativeToolTip": "PSO_Object\\main.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T12:15:07.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
